@@ -11,7 +11,7 @@ Proyek ini merupakan sistem monitoring sensor berbasis ESP32-S3 yang menggunakan
 - **Navigasi UI dengan Tombol**: Dua tombol digunakan untuk berpindah antar menu dan memilih opsi.
 - **Pembaruan Firmware via SD Card**: ESP32-S3 dapat memperbarui firmware secara langsung dari file `.bin` yang ada di SD Card.
 - **Data Sensor Kualitas Udara**: Membaca data dari berbagai sensor seperti SO2, VOC, NO2, CO, PM1, PM2.5, dan PM10.
-- **Kontrol LED dan Buzzer**: Indikasi menggunakan LED dan buzzer berdasarkan kondisi sistem.
+- **Kontrol LED atau Buzzer**: Indikasi menggunakan LED atau buzzer berdasarkan kondisi sistem.
 
 ## Perangkat Keras yang Digunakan
 1. **ESP32-S3** (Board utama)
