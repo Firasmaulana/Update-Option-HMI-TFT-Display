@@ -20,7 +20,7 @@ Proyek ini merupakan sistem monitoring sensor berbasis ESP32-S3 yang menggunakan
 4. **SD Card Module**
 5. **Sensor Kualitas Udara**
 6. **Push Button (2 buah)**
-7. **LED dan Buzzer**
+7. **LED atau Buzzer**
 
 ## Koneksi Pin
 | Komponen       | Pin ESP32-S3 |
